@@ -2,23 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/</loc>
+    <loc>https://www.ponymushama.space/</loc>
     <lastmod>2023-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/</loc>
+    <loc>https://www.ponymushama.space/posts/</loc>
     <lastmod>2023-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/</loc>
+    <loc>https://www.ponymushama.space/tags/</loc>
     <lastmod>2023-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/tags/%E5%89%A7%E6%9C%AC%E6%9D%80/</loc>
+    <loc>https://www.ponymushama.space/tags/%E5%89%A7%E6%9C%AC%E6%9D%80/</loc>
     <lastmod>2023-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/posts/%E7%9E%AC%E9%97%B4%E5%87%9D%E5%9B%BA%E5%9C%A8%E6%88%91%E7%9C%BC%E5%89%8D/</loc>
+    <loc>https://www.ponymushama.space/posts/%E7%9E%AC%E9%97%B4%E5%87%9D%E5%9B%BA%E5%9C%A8%E6%88%91%E7%9C%BC%E5%89%8D/</loc>
     <lastmod>2023-06-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://www.ponymushama.space/categories/</loc>
   </url><url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://www.ponymushama.space/about/</loc>
   </url>
 </urlset>
